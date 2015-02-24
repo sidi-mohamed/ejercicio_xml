@@ -11,7 +11,11 @@ for nombre in nombres :
 
 #2. programa que muestre el total de razas de perros programa que le indiques un numero y te imprima todos los datos 
 
-
+arbol=etree.parse('perros.xml')
+nombres = arbol.findall ('animal/descripcion')
+for nombre in nombres :
+	print len(nombre.text)
+	
 
 
 
