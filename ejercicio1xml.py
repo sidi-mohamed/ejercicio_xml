@@ -8,7 +8,7 @@ arbol=etree.parse('perros.xml')
 nombres = arbol.findall ('animal/descripcion')
 for nombre in nombres :
 	print nombre.text
-	if nombre.text==PITBULL TERRIER :
+	if nombre.text=PITBULL TERRIER :
 		print nombre.text
 
 
