@@ -7,7 +7,7 @@ from lxml import etree
 arbol=etree.parse('perros.xml')
 nombres = arbol.findall ('animal/descripcion')
 for nombre in nombres :
-	if nombre==PITBULL TERRIER:
+	if nombres==PITBULL TERRIER:
 		print nombre.text
 
 
