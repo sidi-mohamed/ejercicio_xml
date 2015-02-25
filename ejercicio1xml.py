@@ -3,22 +3,35 @@ from lxml import etree
 
 # 
 #1. programa que lista todas las razas de los perros
-
+razas=[]
 arbol=etree.parse('perros.xml')
 nombres = arbol.findall ('animal/descripcion')
-for nombre in nombres :
-	if nombre==PITBULL TERRIER:
-		print nombres.text
-
-
-
-#2. programa que muestre el total de razas de perros programa que le indiques un numero y te imprima todos los datos 
-
-#arbol=etree.parse('perros.xml')
-#nombres = arbol.findall ('animal/descripcion')
-#for nombre in nombres :
-	#print len(nombre.text)
+for nombre in nombres:
+	if not nombre.text in razas:
+		razas.append(nombre.text)
+for raza in razas:
+	print raza 
 	
+
+
+
+
+
+#2. programa que muestre el total de razas de cada perro 
+razas=[]
+arbol=etree.parse('perros.xml')
+nombres = arbol.findall ('animal/descripcion')
+for nombre in nombres:
+	if not nombre.text in razas:
+		razas.append(nombre.text)
+for raza in razas:
+	print len(raza)
+
+
+
+
+
+
 
 
 
