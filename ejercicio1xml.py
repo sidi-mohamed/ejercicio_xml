@@ -42,6 +42,18 @@ for n in xrange(len(lista)):
 		print "barrio:",lista[n][3].text
 		print "numero:",lista[n][4].text
 		
+#4. indicarle el nombre de la raza y decirte cuantos perros hay de esa raza  
+
+numero=raw_input("dime una raza").upper()
+razas=[]
+arbol=etree.parse('perros.xml')
+lista=arbol.getroot()
+
+for n in xrange(len(lista)):
+	if numero == lista[n][0].text:
+		numraza=len(lista[n][0].text)
+print "raza:",numraza
+		
 		
 	
 
