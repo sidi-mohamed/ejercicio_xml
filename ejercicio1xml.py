@@ -1,4 +1,4 @@
-# -*- coding : utf -8 -*-
+# -*- coding: utf-8 -*-
 from lxml import etree
 
 # 
@@ -11,7 +11,7 @@ for nombre in nombres:
 		razas.append(nombre.text)
 for raza in razas:
 	print raza 
-	
+
 
 
 
@@ -28,23 +28,22 @@ for raza in razas:
 	print len(raza)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #3. programa que lea por teclado un nombre de raza y muestre  los datos
-#4. indicarle el nombre de la raza y decirte si aparece mas de uno 
+numero=raw_input("dime una raza").upper()
+razas=[]
+arbol=etree.parse('perros.xml')
+lista=arbol.getroot()
 
+for n in xrange(len(lista)):
+	if numero == lista[n][0].text:
+		print "raza:",lista[n][0].text
+		print "tamano:",lista[n][1].text
+		print "codigo_postal:",lista[n][2].text
+		print "barrio:",lista[n][3].text
+		print "numero:",lista[n][4].text
+		
+		
+	
 
 
 
