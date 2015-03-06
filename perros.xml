@@ -1,0 +1,2109 @@
+<animales>
+    <animal num="0">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>16</numero>
+    </animal>
+    <animal num="1">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="2">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="3">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="4">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="5">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="6">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="7">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="8">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33206</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="9">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="10">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="11">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="12">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="13">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="14">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>33</numero>
+    </animal>
+    <animal num="15">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="16">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="17">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="18">
+        <descripcion>AKITA INU</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="19">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="20">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="21">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="22">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="23">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="24">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="25">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="26">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="27">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="28">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Ruedes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="29">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="30">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="31">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="32">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="33">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Castiello Bernueces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="34">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33390</codigo_postal>
+        <barrio>Leorio/Llorio</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="35">
+        <descripcion>MASTÍN</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Llavandera</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="36">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="37">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="38">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Moreda</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="39">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="40">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>12</numero>
+    </animal>
+    <animal num="41">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>14</numero>
+    </animal>
+    <animal num="42">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="43">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="44">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="45">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Moreda</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="46">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="47">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="48">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>13</numero>
+    </animal>
+    <animal num="49">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>21</numero>
+    </animal>
+    <animal num="50">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="51">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="52">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="53">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="54">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="55">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="56">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="57">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="58">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="59">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Fresno</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="60">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>13</numero>
+    </animal>
+    <animal num="61">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="62">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Santurio</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="63">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Samartin de Güerces</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="64">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="65">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="66">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="67">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="68">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="69">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="70">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Puao</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="71">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="72">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Puao</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="73">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Porceyo</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="74">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="75">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33393</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="76">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="77">
+        <descripcion>FILA BRASILEIRO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="78">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="79">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="80">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="81">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="82">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Les Mestes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="83">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="84">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="85">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Cimavilla</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="86">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>5</numero>
+    </animal>
+    <animal num="87">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="88">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="89">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="90">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>5</numero>
+    </animal>
+    <animal num="91">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>10</numero>
+    </animal>
+    <animal num="92">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="93">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="94">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="95">
+        <descripcion>BOXER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="96">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="97">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="98">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="99">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Llavandera</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="100">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Moreda</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="101">
+        <descripcion>PASTOR ALEMÁN</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="102">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="103">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Santa Bárbara</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="104">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="105">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="106">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="107">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="108">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="109">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="110">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="111">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="112">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Cimavilla</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="113">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Cimavilla</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="114">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="115">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Cimavilla</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="116">
+        <descripcion>MASTÍN</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Cimavilla</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="117">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>18</numero>
+    </animal>
+    <animal num="118">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>10</numero>
+    </animal>
+    <animal num="119">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="120">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="121">
+        <descripcion>PASTOR ALEMÁN</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="122">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="123">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="124">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>11</numero>
+    </animal>
+    <animal num="125">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="126">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="127">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Ruedes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="128">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="129">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="130">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Perchera/La Braña</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="131">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="132">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="133">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Les Mestes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="134">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Cabueñes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="135">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="136">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="137">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Veriña</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="138">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33391</codigo_postal>
+        <barrio>Granda</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="139">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="140">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Porceyo</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="141">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Cabueñes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="142">
+        <descripcion>FILA BRASILEIRO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="143">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>La Pedrera</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="144">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="145">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>El Bibio</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="146">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>El Bibio</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="147">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="148">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="149">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="150">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="151">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="152">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="153">
+        <descripcion>AKITA INU</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="154">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>11</numero>
+    </animal>
+    <animal num="155">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="156">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="157">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="158">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="159">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="160">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="161">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Perchera/La Braña</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="162">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Porceyo</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="163">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Nuevo Gijón/La Peral</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="164">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Fresno</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="165">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Tremañes</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="166">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="167">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="168">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="169">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33391</codigo_postal>
+        <barrio>Valdornón</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="170">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>22</numero>
+    </animal>
+    <animal num="171">
+        <descripcion>FILA BRASILEIRO</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="172">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="173">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="174">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>5</numero>
+    </animal>
+    <animal num="175">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33206</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="176">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="177">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="178">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="179">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="180">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>Laviada</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="181">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="182">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Tremañes</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="183">
+        <descripcion>AKITA INU</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="184">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="185">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="186">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="187">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>5</numero>
+    </animal>
+    <animal num="188">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="189">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="190">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33697</codigo_postal>
+        <barrio>Serin</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="191">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33391</codigo_postal>
+        <barrio>Granda</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="192">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="193">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="194">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33697</codigo_postal>
+        <barrio>San Andrés de los Tacones</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="195">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Perchera/La Braña</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="196">
+        <descripcion>PRESA CANARIO</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33390</codigo_postal>
+        <barrio>La Pedrera</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="197">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Veriña</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="198">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Porceyo</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="199">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="200">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="201">
+        <descripcion>DOBERMAN</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="202">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Tremañes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="203">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Samartin de Güerces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="204">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Veriña</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="205">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="206">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="207">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>45</numero>
+    </animal>
+    <animal num="208">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="209">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="210">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="211">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="212">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="213">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="214">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33290</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>11</numero>
+    </animal>
+    <animal num="215">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33206</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="216">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="217">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="218">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="219">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>Moreda</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="220">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="221">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="222">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>26</numero>
+    </animal>
+    <animal num="223">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="224">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>5</numero>
+    </animal>
+    <animal num="225">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="226">
+        <descripcion>MASTÍN</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="227">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>9</numero>
+    </animal>
+    <animal num="228">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="229">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="230">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33391</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="231">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33393</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="232">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33393</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="233">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="234">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Deva</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="235">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Porceyo</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="236">
+        <descripcion>AKITA INU</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="237">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="238">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="239">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Cabueñes</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="240">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Santa Bárbara</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="241">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="242">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Santurio</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="243">
+        <descripcion>MESTIZO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Roces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="244">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Nuevo Gijón/La Peral</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="245">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Llavandera</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="246">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Nuevo Gijón/La Peral</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="247">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Caldones</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="248">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="249">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Veriña</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="250">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="251">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33393</codigo_postal>
+        <barrio>L' Abadía Cenero</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="252">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="253">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="254">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="255">
+        <descripcion>DOGO ARGENTINO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33202</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="256">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>L' Arena</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="257">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33206</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="258">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>El Bibio</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="259">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Les Mestes</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="260">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="261">
+        <descripcion>AKITA INU</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>El Natahoyo</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="262">
+        <descripcion>BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33212</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="263">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="264">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="265">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>8</numero>
+    </animal>
+    <animal num="266">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Pumarín</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="267">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="268">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>17</numero>
+    </animal>
+    <animal num="269">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33207</codigo_postal>
+        <barrio>El Polígono</barrio>
+        <numero>18</numero>
+    </animal>
+    <animal num="270">
+        <descripcion>AMERICAN PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33208</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="271">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Tremañes</barrio>
+        <numero>9</numero>
+    </animal>
+    <animal num="272">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="273">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33205</codigo_postal>
+        <barrio>El Coto</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="274">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="275">
+        <descripcion>FILA BRASILEIRO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="276">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33204</codigo_postal>
+        <barrio>Viesques</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="277">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="278">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33350</codigo_postal>
+        <barrio>Vega</barrio>
+        <numero>6</numero>
+    </animal>
+    <animal num="279">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>3</numero>
+    </animal>
+    <animal num="280">
+        <descripcion>FILA BRASILEIRO</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33392</codigo_postal>
+        <barrio>Ruedes</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="281">
+        <descripcion>AFGANO</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Ceares/Ciares</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="282">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Perchera/La Braña</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="283">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Nuevo Gijón/La Peral</barrio>
+        <numero>7</numero>
+    </animal>
+    <animal num="284">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33390</codigo_postal>
+        <barrio>Leorio/Llorio</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="285">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Santa Bárbara</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="286">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33201</codigo_postal>
+        <barrio>Centro</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="287">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>El Llano</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="288">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33299</codigo_postal>
+        <barrio>La Calzada</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="289">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Cabueñes</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="290">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Somió</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="291">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Montevil</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="292">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Pequeño</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Santa Bárbara</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="293">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33211</codigo_postal>
+        <barrio>Santa Bárbara</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="294">
+        <descripcion>STAFFORDSHIRE BULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33394</codigo_postal>
+        <barrio>Deva</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="295">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Grande</tamanyo>
+        <codigo_postal>33210</codigo_postal>
+        <barrio>Contrueces</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="296">
+        <descripcion>ROTTWEILER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33391</codigo_postal>
+        <barrio>Caldones</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="297">
+        <descripcion>PITBULL TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33213</codigo_postal>
+        <barrio>Jove/Xove</barrio>
+        <numero>1</numero>
+    </animal>
+    <animal num="298">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33209</codigo_postal>
+        <barrio>Roces (rural)</barrio>
+        <numero>4</numero>
+    </animal>
+    <animal num="299">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33691</codigo_postal>
+        <barrio>Puao</barrio>
+        <numero>2</numero>
+    </animal>
+    <animal num="300">
+        <descripcion>AMERICAN STAFFORDSHIRE TERRIER</descripcion>
+        <tamanyo>Mediano</tamanyo>
+        <codigo_postal>33203</codigo_postal>
+        <barrio>Cabueñes</barrio>
+        <numero>1</numero>
+    </animal>
+</animales>
